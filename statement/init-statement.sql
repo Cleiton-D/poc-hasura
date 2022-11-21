@@ -17,7 +17,7 @@ INSERT INTO public.financial_entry (arrangement_id, seller_id, entry_type, amoun
   ('1a06121b-340c-4209-bf77-9261d16ba186', '707880d9-9447-4be5-b8e0-4e903ee7b8e0', 'DEPOSIT', 500),
   ('1a06121b-340c-4209-bf77-9261d16ba186', '707880d9-9447-4be5-b8e0-4e903ee7b8e0', 'WITHDRAWAL', 1200),
   ('1a06121b-340c-4209-bf77-9261d16ba186', '707880d9-9447-4be5-b8e0-4e903ee7b8e0', 'DEPOSIT', 138),
-  ('1a06121b-340c-4209-bf77-9261d16ba186', '707880d9-9447-4be5-b8e0-4e903ee7b8e0', 'DEPOSIT', 983)
+  ('1a06121b-340c-4209-bf77-9261d16ba186', '707880d9-9447-4be5-b8e0-4e903ee7b8e0', 'DEPOSIT', 983);
 
 
 INSERT INTO public.financial_entry (arrangement_id, seller_id, entry_type, amount) VALUES
@@ -27,4 +27,4 @@ INSERT INTO public.financial_entry (arrangement_id, seller_id, entry_type, amoun
   ('ae2cdb48-b071-4f1e-bece-74b2e60fde3c', '8c767d27-6199-489d-b56e-e82c01312d67', 'WITHDRAWAL', 234),
   ('ae2cdb48-b071-4f1e-bece-74b2e60fde3c', '8c767d27-6199-489d-b56e-e82c01312d67', 'DEPOSIT', 690),
   ('ae2cdb48-b071-4f1e-bece-74b2e60fde3c', '8c767d27-6199-489d-b56e-e82c01312d67', 'WITHDRAWAL', 2200),
-  ('ae2cdb48-b071-4f1e-bece-74b2e60fde3c', '8c767d27-6199-489d-b56e-e82c01312d67', 'WITHDRAWAL', 427)
+  ('ae2cdb48-b071-4f1e-bece-74b2e60fde3c', '8c767d27-6199-489d-b56e-e82c01312d67', 'WITHDRAWAL', 427);
